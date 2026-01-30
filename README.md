@@ -20,3 +20,4 @@ Or just run the `dpkg-buildpackage -b --no-sign` command to build .deb package.
 
 ## Configuration
 To create custom keyboard layout, edit the file layout.csv and place it as /etc/touch_keyboard/layout.csv.
+More info can be found in the Wiki.
