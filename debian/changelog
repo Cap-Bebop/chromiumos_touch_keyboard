@@ -1,3 +1,9 @@
+touch-keyboard (1.4.8) unstable; urgency=medium
+
+  * Add Home and End shortcuts to layouts
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Wed, 04 Feb 2026 00:41:35 +0200
+
 touch-keyboard (1.4.7) unstable; urgency=medium
 
   * Fix systemd and udev configs paths in CMakeLists.txt to be compatible
