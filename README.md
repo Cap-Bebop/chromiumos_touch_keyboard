@@ -18,8 +18,8 @@ sudo make install
 Or just run the `dpkg-buildpackage -b --no-sign` command to build .deb package.
 
 All Buttons are predefined and represent what's printed on the Keyboard except for 2 additions that are commonly used on small Laptop-Keyboards:  
-**`Fn+left = Home`  
-`Fn+right = End`**
+`Fn+left = Home`  
+`Fn+right = End`
 
 ## Configuration
 To create a custom keyboard layout, edit the file layout.csv and place it as /etc/touch_keyboard/layout.csv.
