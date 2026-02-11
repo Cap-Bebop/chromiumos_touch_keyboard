@@ -22,9 +22,9 @@ enum class TouchKeyboardEvent {
 };
 
 // Default magnitude for haptic feedback.
-constexpr double kDefaultHapticMagnitude = 1.0;
+constexpr double kDefaultHapticMagnitude = 0.5;
 // Default duration for haptic feedback in ms.
-constexpr int kDefaultHapticDurationMs = 6;
+constexpr int kDefaultHapticDurationMs = 4;
 
 class TouchFFManager {
   /* TouchFFManager (touch force feeback manager) class manages the haptic
