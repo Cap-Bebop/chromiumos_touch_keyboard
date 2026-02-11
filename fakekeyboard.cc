@@ -20,10 +20,10 @@ constexpr bool kKeyUpEvent = false;
 constexpr int kNoKey = -1;
 constexpr int kOldTID = -999;
 
-constexpr int kMinTapPressure = 50;
-constexpr int kMaxTapPressure = 110;
+constexpr int kMinTapPressure = 20;
+constexpr int kMaxTapPressure = 2000;
 
-constexpr int kMinTapTouchDiameter = 300;
+constexpr int kMinTapTouchDiameter = 200;
 constexpr int kMaxTapTouchDiameter = 3000;
 
 FakeKeyboard::FakeKeyboard(struct hw_config &hw_config,
