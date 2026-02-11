@@ -63,8 +63,8 @@ int main(int argc, char *argv[]) {
   struct touch_keyboard::hw_config hw_config;
   int debug_level = 0;
   int opt;
-  double ff_magnitude = 1.0;
-  int ff_duration_ms = 4;
+  double ff_magnitude = 0.4;
+  int ff_duration_ms = 2;
 
   while ((opt = getopt(argc, argv, "hdm:D:")) != -1) {
     switch (opt) {
