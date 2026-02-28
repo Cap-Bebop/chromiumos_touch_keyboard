@@ -17,11 +17,11 @@ sudo make install
 
 Or just run the `dpkg-buildpackage -b --no-sign` command to build .deb package.
 
-All Buttons are predefined and represent what's printed on the Keyboard except for 2 additions that are commonly used on small Laptop-Keyboards:  
-`Fn+left = Home`  
-`Fn+right = End`
+The  
+```YB1-X9x-pc105.csv```  
+is heavily modified compered to the source with changed and modified keys  
 
 ## Configuration
 To create a custom keyboard layout, edit the file layout.csv and place it as /etc/touch_keyboard/layout.csv.
 
-**More info on customisation can be found in the [Wiki](https://github.com/jekhor/chromiumos_touch_keyboard/wiki).**
+**More info on customisation can be found in the [Wiki](https://github.com/Cap-Bebop/chromiumos_touch_keyboard.wiki).**
