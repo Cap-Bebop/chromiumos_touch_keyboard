@@ -24,4 +24,4 @@ is heavily modified compered to the source with changed and modified keys
 ## Configuration
 To create a custom keyboard layout, edit the file layout.csv and place it as /etc/touch_keyboard/layout.csv.
 
-**More info on customisation can be found in the [Wiki](https://github.com/Cap-Bebop/chromiumos_touch_keyboard.wiki).**
+**More info on customisation can be found in the [Wiki](https://github.com/Cap-Bebop/chromiumos_touch_keyboard/wiki).**
